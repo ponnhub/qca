@@ -1,0 +1,17 @@
+{
+  "name": "qca-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaloemphol Preedarat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb-topology-manager": "^2.1.0",
+    "mongoose": "^6.2.10",
+    "socket.io": "^4.4.1"
+  }
+}
